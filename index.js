@@ -5,7 +5,7 @@ var pattern = function(file) {
 };
 
 var framework = function(files) {
-  files.unshift(pattern(path.resolve(require.resolve('sinon'), '../sinon.js')));
+  files.unshift(pattern(path.resolve(require.resolve('sinon-as-promised'), '../sinon-as-promised.js')));
 };
 
 framework.$inject = ['config.files'];
