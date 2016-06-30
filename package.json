@@ -1,6 +1,6 @@
 {
   "name": "karma-sinon-as-promised",
-  "version": "0.1.4",
+  "version": "0.1.5",
 
   "author": "Jaganathan B <jaganathan.eswaran@gmail.com>",
   "description": "sinon-as-promised plugin for karma",
